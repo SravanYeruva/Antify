@@ -1,0 +1,7 @@
+{
+	"dart.flutterSdkPaths": [
+    "/home/sravan/flutter",
+    "/home/sravan/flutter-beta"// Or can be a folder that contains multiple SDKs
+    ],
+    "dart.flutterSdkPath": "/home/sravan/flutter"
+}

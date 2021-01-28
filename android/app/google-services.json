@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263720537174",
+    "project_id": "antify-5255c",
+    "storage_bucket": "antify-5255c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263720537174:android:964ad88071e32a7440bff7",
+        "android_client_info": {
+          "package_name": "com.example.antify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263720537174-11trmieer1hhog6abssmb3q02p26p884.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3C3OWA7I4tonLQIjMg-FqOnb8HHpEdXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263720537174-11trmieer1hhog6abssmb3q02p26p884.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
